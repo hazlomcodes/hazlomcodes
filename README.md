@@ -4,7 +4,7 @@ I am a Junior Full Stack software developer looking for my first professional ro
 
 - 😄 Pronouns: he/him 👱:
 - 🔭 I’m currently working on personal projects and learning Python :fire:
-- 🌱 I’m a graduate of CommandShiftHQ :school_satchel:
+- 🏫 I’m a graduate of CommandShiftHQ :school_satchel:
 - 👯 I’m looking to collaborate on full stack projects :metal:
 - 🤔 I’m looking for help with learning other programming languages :books:
 - 💬 Ask me about junior software developer jobs :baby:
