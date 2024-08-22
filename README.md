@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harry :relaxed:
 
-I am a Junior Full Stack software developer looking for my first professional role. My primary language is JavaScript however I am eager to learn more languages. 🧮
+I am a Junior Full Stack software developer looking for my first professional role. My primary language is JavaScript however I am also familar with both Pyhton and Java. 🧮
 
 - 😄 Pronouns: he/him 👱:
 - 🔭 I’m currently working on personal projects and learning Python :fire:
